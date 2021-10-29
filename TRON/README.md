@@ -6,7 +6,7 @@ The TRON network dialect of CATNIP token.
 ## CATNIP functionality
 The CATNIP token protocol is a capital functional token protocol designed purely for profit. It allows the following:
 
-- Default price-per-token of $0.14 USD
+- Default absolute minimum price-per-token of $0.14 USD
 - A total supply below one billion
 - Half of the total supply is reserved to the creating organization
 - The remaining supply is tradable
