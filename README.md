@@ -8,3 +8,6 @@ CATNIP (Crazy Applicable Token Never Interrupting Profitability) is a multi-netw
 Anything related to the CATNIP project (tokens, whitepapers, pool codes, etc.) will be maintainned here.
 
 https://tronscan.org/#/token20/TSotc6DAAD36oBBATNnkYAA3dVahCPN5JM
+
+## Updates
+01/01/2022 - Due to initial liquidity failure, this project (tradable) is on hold and no longer maintainned much by myself.
